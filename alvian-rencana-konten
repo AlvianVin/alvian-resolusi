@@ -2,8 +2,10 @@ RENCANA KONTEN ALVIAN
 -bisa javascript
   *library
   *framework
-   ^angular
-   ^react
+   ^vue.js
+   ^react.js
+-fundamental data structure
 -bisa php
   ^laravel
 -bisa coding
+-bisa python
